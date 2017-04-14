@@ -1,6 +1,6 @@
-[This is a link to my Coursera Exploratory Data Analysis repository](https://github.com/mbhani/Coursera_Exploratory_Data_Analysis_Course)
+[Link to my Coursera Exploratory Data Analysis repository](https://github.com/mbhani/Coursera_Exploratory_Data_Analysis_Course)
 
-# Peer-graded Assignment: Course Project 1
+# Course Project 1
 
 ## Introduction
 
