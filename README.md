@@ -1,10 +1,8 @@
 [Link to my Coursera Exploratory Data Analysis repository](https://github.com/mbhani/Coursera_Exploratory_Data_Analysis_Course)
 
 ## Important:
-all R scripts in this project assumed that you have downloaded and stored the dataset text file into your working directory under: 
-"./data/household_power_consumption.txt" 
-
-where the "~/data/" folder is in your working directory , which is same directory where all the scripts are stored.
+all R scripts in this project assumes that you have created *"./data/"* folder inside your working directory and that you have downloaded and stored the data set text file *"household_power_consumption.txt"* into your data directory inside your working directory as shown below: 
+*"~/data/household_power_consumption.txt"* 
 
 # Course Project 1
 
