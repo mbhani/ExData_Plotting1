@@ -1,7 +1,7 @@
 #Exploratory Data Analysis CLass Programming Assignment#1 4/13/2017
 
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
-# This is plot3.R script to construct plot2.png                                        #
+# This is plot3.R script to construct plot3.png                                        #
 # script assume you have loaded text file data into your working directory under:      #
 # "./data/household_power_consumption.txt"                                             #
 # First run "Load_ExData.R" script in RStudio, should be in same working directory     #
